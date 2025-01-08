@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed on your machine:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com//JavaAutomation.git
+https://github.com/ArslanAfzalQA/JavaAutomation.git
 
 2. Import the Project
 Open IntelliJ IDEA (or your IDE).
